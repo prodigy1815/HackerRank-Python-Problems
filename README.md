@@ -1,4 +1,4 @@
-# HackerRank-Python-Problems
+# HackerRank-Python-Problem Minion-Game
 
 Kevin and Stuart want to play the 'The Minion Game'.
 
